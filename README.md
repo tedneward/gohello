@@ -1,0 +1,2 @@
+# gohello
+A Go package
